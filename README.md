@@ -60,9 +60,6 @@ Then visit <http://localhost:8000>.
 ├── index.html       # Website markup, styles, animations, and client-side behavior
 ├── robots.txt       # Crawler rules and sitemap location
 ├── sitemap.xml      # Canonical site URL for search engines
-├── RESEARCH.md      # Public research and content sources
-├── report.md        # Implementation and verification report
-├── PLAN.md          # Maintenance and improvement plan
 ├── LICENSE          # MIT license
 └── README.md        # Project documentation
 ```
