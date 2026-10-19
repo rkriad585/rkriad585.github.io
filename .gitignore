@@ -1,4 +1,21 @@
-# Local research / planning artifacts (not part of the site)
-RESEARCH.md
-report.md
-PLAN.md
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local development output
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+
+# Local environment files
+.env
+.env.*
+!.env.example
