@@ -1,4 +1,4 @@
-# RK RIAD/585
+# RK RIAD 585
 
 Personal website for **RK Riad Khan** (`rkriad585`), an open source developer and the creator of the **Kirn Programming language**.
 
