@@ -27,11 +27,11 @@ The site presents his selected work, public organizations, technical interests, 
 
 ## Open source organizations
 
-- [Kirn Lang](https://github.com/kirn-lang) — the Kirn language, compiler, standard library, and tools.
-- [KirnOS Kernel](https://github.com/kirnos-kernel) — architecture and core systems work for KirnOS.
-- [Pets Registry](https://github.com/pets-registry) — package registry and ecosystem services for Kirn.
-- [PeekStore](https://github.com/peekstore) — a hub for discovering and sharing applications and tools.
-- [Kirnly](https://github.com/kirnly) — desktop and CLI applications around the Kirn ecosystem.
+- [Kirn Lang](https://kirn-lang.github.io) — the Kirn language, compiler, standard library, and tools.
+- [KirnOS Kernel](https://kirnos-kernel.github.io) — architecture and core systems work for KirnOS.
+- [Pets Registry](https://pets-registry.github.io) — package registry and ecosystem services for Kirn.
+- [PeekStore](https://peekstore.github.io) — a hub for discovering and sharing applications and tools.
+- [Kirnly](https://kirnly.github.io) — desktop and CLI applications around the Kirn ecosystem.
 
 ## Website features
 
@@ -58,6 +58,7 @@ Then visit <http://localhost:8000>.
 ```text
 .
 ├── index.html       # Website markup, styles, animations, and client-side behavior
+├── 404.html         # Responsive GitHub Pages not-found page
 ├── robots.txt       # Crawler rules and sitemap location
 ├── sitemap.xml      # Canonical site URL for search engines
 ├── LICENSE          # MIT license
