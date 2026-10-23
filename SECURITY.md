@@ -1,0 +1,1 @@
+# Security Policy\n\n## Reporting a vulnerability\n\nPlease do not disclose security vulnerabilities in a public issue. Email [rkriad585@gmail.com](mailto:rkriad585@gmail.com) with a clear description, impact, reproduction steps, and any relevant logs or patches.\n\nPlease allow time for acknowledgement and coordinated remediation before public disclosure.\n

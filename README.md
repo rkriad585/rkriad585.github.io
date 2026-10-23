@@ -1,86 +1,56 @@
-# RK RIAD 585
+<p align="center">
+  <img src="https://github.com/rkriad585.png?size=256" alt="RK Riad Khan logo" width="520">
+</p>
 
-Personal website for **RK Riad Khan** (`rkriad585`), an open source developer and the creator of the **Kirn Programming language**.
+<h1 align="center">RK Riad Khan</h1>
 
-Live site: [rkriad585.github.io](https://rkriad585.github.io)
+<p align="center">Open-source software, systems, and ideas by RK Riad Khan.</p>
 
-> Everything is open source in here.
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license">
+  <img src="https://img.shields.io/badge/made%20by-rkriad585-111827.svg" alt="Made by rkriad585">
+</p>
 
-## About
+## Overview
 
-RK Riad Khan is an independent developer from Rajshahi, Bangladesh. His work covers programming languages, developer tools, local first software, mathematics, security, CLI utilities, and open source infrastructure.
+This is the personal website and project index of RK Riad Khan (RKRIAD585), an open-source developer and creator of the Kirn programming language. It connects the people, organizations, and tools being built in public.
 
-The site presents his selected work, public organizations, technical interests, and ways to collaborate or support the projects.
+## Website and source
 
-## Featured work
+- [Project website](https://rkriad585.github.io/)
+- [Source repository](https://github.com/rkriad585)
+- [Creator: RK Riad Khan](https://rkriad585.github.io/)
 
-| Project | What it does | Repository |
-| --- | --- | --- |
-| [Kirn](https://kirn-lang.github.io) | A modern general purpose programming language created by RK Riad Khan. | [GitHub](https://github.com/rkriad585/kirn) |
-| [LocalNeural](https://github.com/rkriad585/LocalNeural) | A private AI interface for local and cloud models. | GitHub |
-| [LineSolv](https://github.com/rkriad585/LineSolv) | A cross platform natural language calculator. | GitHub |
-| [Authority](https://github.com/rkriad585/authority) | Python authentication infrastructure with API keys, scopes, MFA, and audit logging. | GitHub |
-| [neocut](https://github.com/rkriad585/neocut) | A command line tool for removing silence from MP3 files. | GitHub |
-| [neorwc](https://github.com/rkriad585/neorwc-cli) | An AI powered CLI for generating structured project documentation. | GitHub |
-| [qrtransfer](https://github.com/rkriad585/qrtransfer) | Local network file sharing through QR codes. | GitHub |
-| [AxiomPy](https://github.com/rkriad585/AxiomPy) | A first principles Python mathematics and computation engine. | GitHub |
+## Kirn ecosystem
 
-## Open source organizations
-
-- [Kirn Lang](https://kirn-lang.github.io) — the Kirn language, compiler, standard library, and tools.
-- [KirnOS Kernel](https://kirnos-kernel.github.io) — architecture and core systems work for KirnOS.
-- [Pets Registry](https://pets-registry.github.io) — package registry and ecosystem services for Kirn.
-- [PeekStore](https://peekstore.github.io) — a hub for discovering and sharing applications and tools.
-- [Kirnly](https://kirnly.github.io) — desktop and CLI applications around the Kirn ecosystem.
-
-## Website features
-
-- Single page, dependency free HTML site.
-- Monochrome black and grey interface with the existing red accent.
-- Responsive layouts for desktop, tablet, and mobile devices.
-- Cursor follower, signal panel animation, scroll reveals, and typing messages.
-- Project category filtering and responsive navigation.
-- Reduced motion support for visitors who prefer less animation.
-- SEO metadata, Open Graph and Twitter cards, canonical URL, JSON-LD, `robots.txt`, and `sitemap.xml`.
+- [Kirn](https://kirn-lang.github.io/)
+- [Pets Registry](https://pets-registry.github.io/)
+- [Kirnly](https://kirnly.github.io/)
+- [KirnOS](https://kirnos-kernel.github.io/)
+- [Creator website](https://rkriad585.github.io/)
 
 ## Local development
 
-No build step is required. Open `index.html` directly or serve the project with a local web server:
+This is a static GitHub Pages website. No build step is required. Serve the repository locally with:
 
 ```bash
 python3 -m http.server 8000
 ```
 
-Then visit <http://localhost:8000>.
+Then open <http://localhost:8000/>.
 
-## Repository files
+## Repository contents
 
-```text
-.
-├── index.html       # Website markup, styles, animations, and client-side behavior
-├── 404.html         # Responsive GitHub Pages not-found page
-├── robots.txt       # Crawler rules and sitemap location
-├── sitemap.xml      # Canonical site URL for search engines
-├── LICENSE          # MIT license
-└── README.md        # Project documentation
-```
-
-## Find RK online
-
-- [GitHub](https://github.com/rkriad585)
-- [Facebook](https://www.facebook.com/rkriad585)
-- [X / Twitter](https://x.com/rk_riad585)
-- [SourceForge](https://sourceforge.net/u/rkriad585)
-- [YouTube](https://youtube.com/@rkriad585)
-- [ORCID](https://orcid.org/0009-0005-7611-7453)
-- [Patreon](https://www.patreon.com/rkriad585)
-- [OpenCollective](https://opencollective.com/rkriad585)
-- Email: [rkriad585@gmail.com](mailto:rkriad585@gmail.com)
+- `index.html` — accessible project landing page
+- `404.html` — GitHub Pages not-found page
+- `styles.css` and `script.js` — presentation and interactions
+- `robots.txt` and `sitemap.xml` — crawler guidance
+- `CONTRIBUTING.md` — contribution workflow
 
 ## Contributing
 
-Suggestions, corrections, issues, and pull requests are welcome. Keep contributions focused, accessible, and easy to understand.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), and [ACCESSIBILITY.md](ACCESSIBILITY.md) before opening a pull request. Report security issues privately using [SECURITY.md](SECURITY.md).
 
 ## License
 
-This website is available under the [MIT License](LICENSE).
+ Released under the [MIT License](LICENSE). Copyright © 2026 RK Riad Khan and contributors.

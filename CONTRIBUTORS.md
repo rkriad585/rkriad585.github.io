@@ -1,0 +1,1 @@
+# Contributors\n\nThanks to everyone who improves RK Riad Khan.\n\n- [@rkriad585](https://github.com/rkriad585) — creator and current maintainer\n\nContributions are welcome through pull requests and constructive issue discussions.\n
