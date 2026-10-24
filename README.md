@@ -30,6 +30,7 @@ The personal website and project index of RK Riad Khan (RKRIAD585), creator of t
 - [Kirn website](https://kirn-lang.github.io/)
 - [Kirn documentation](https://rkriad585.github.io/kirn/)
 - [Pets contribution docs](https://pets-registry.github.io/pets)
+- [Kirsh terminal website](https://kirsh-shell.github.io/)
 
 ## Local development
 
