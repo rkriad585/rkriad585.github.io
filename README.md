@@ -26,10 +26,10 @@ The personal website and project index of RK Riad Khan (RKRIAD585), creator of t
 - [Creator website](https://rkriad585.github.io/)
 - [KirnOS website](https://kirnos-kernel.github.io/)
 - [Kirnly website](https://kirnly.github.io/)
-- [Pets registry website](https://pets-registry.github.io/)
+- [Pats registry website](https://pats-registry.github.io/)
 - [Kirn website](https://kirn-lang.github.io/)
 - [Kirn documentation](https://rkriad585.github.io/kirn/)
-- [Pets contribution docs](https://pets-registry.github.io/pets)
+- [Pats contribution docs](https://pats-registry.github.io/pats)
 - [Kirsh terminal website](https://kirsh-shell.github.io/)
 - [Stirk AI website](https://stirk-ai.github.io/)
 
